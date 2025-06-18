@@ -40,7 +40,6 @@ It forges **mutated evasion vectors** — chaining encodings, fragmenting logic,
 ## ⚔️ OPERATIONAL DEPLOYMENT
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sax-ammos.git
-cd sax-ammos
-go build -o saxammos sanx-ammos.go
-./saxammos
+git clone https://github.com/Santhanam2007/SaX-Ammos-Payload-Forge.git
+cd SaX-Ammos-Payload-Forge
+go run sanx-ammos.go
