@@ -14,7 +14,7 @@
 
 ## 🧩  WHAT IS SAX AMMOS?
 
-> **SaX Ammos** is a closed-circuit, weapon-grade **payload engineering system** designed for **blackbox red teams, private bug bounty hunters, and cyber offense teams**.
+> **SanX Ammos** is a closed-circuit, weapon-grade **payload engineering system** designed for **blackbox red teams, private bug bounty hunters, and cyber offense teams**.
 
 It doesn't "generate" payloads.  
 It forges **mutated evasion vectors** — chaining encodings, fragmenting logic, and permutating across **XSS**, **SQLi**, **SSRF**, **CORS**, **RCE**, **Redirects**, and more.
