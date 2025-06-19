@@ -12,7 +12,7 @@
 
 ---
 
-## 🧩  WHAT IS SAX AMMOS?
+## 🧩  WHAT IS sanX AMMOS?
 
 > **SanX Ammos** is a closed-circuit, weapon-grade **payload engineering system** designed for **blackbox red teams, private bug bounty hunters, and cyber offense teams**.
 
@@ -40,6 +40,6 @@ It forges **mutated evasion vectors** — chaining encodings, fragmenting logic,
 ## ⚔️ OPERATIONAL DEPLOYMENT
 
 ```bash
-git clone https://github.com/Santhanam2007/SaX-Ammos-Payload-Forge.git
-cd SaX-Ammos-Payload-Forge
+git clone https://github.com/Santhanam2007/sanX-Ammos-Payload-Forge.git
+cd sanX-Ammos-Payload-Forge
 go run sanx-ammos.go
